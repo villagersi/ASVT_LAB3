@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sopar\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sopar\\.nuget\\packages",
+      "D:\\Programms\\Visual Studio Instruments\\NuGetPackages"
+    ]
+  }
+}

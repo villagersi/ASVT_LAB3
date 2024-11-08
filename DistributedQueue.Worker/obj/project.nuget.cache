@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vE5gLjk4jC0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sopar\\OneDrive\\Рабочий стол\\DQ\\DistributedQueue.Worker\\DistributedQueue.Worker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sopar\\.nuget\\packages\\hangfire.core\\1.8.2\\hangfire.core.1.8.2.nupkg.sha512",
+    "C:\\Users\\sopar\\.nuget\\packages\\hangfire.redis.stackexchange\\1.9.0\\hangfire.redis.stackexchange.1.9.0.nupkg.sha512",
+    "C:\\Users\\sopar\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512",
+    "C:\\Users\\sopar\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.2\\pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
+    "C:\\Users\\sopar\\.nuget\\packages\\stackexchange.redis\\2.6.111\\stackexchange.redis.2.6.111.nupkg.sha512",
+    "C:\\Users\\sopar\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
